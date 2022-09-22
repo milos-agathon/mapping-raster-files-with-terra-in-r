@@ -1,4 +1,4 @@
-# Mapping OSM and satelitte data with terra in R
+# Mapping OSM and satellite data with terra in R
 
 How to create and map a raster extent for a city bounding box using OSM and satelitte data.
 
